@@ -25,7 +25,7 @@ For this particular example, we will use the Webex Teams JS SDK websockets funct
 1. Clone this repo:
 
     ```sh
-    git clone https://wwwin-github.cisco.com/gve/GVE_Devnet_WebexTeamsBot_MessageForwader.git
+    git clone https://github.com/gve-sw/GVE_Devnet_WebexTeamsBot_MessageForwader.git
 
     cd GVE_Devnet_WebexTeamsBot_MessageForwader
     ```
